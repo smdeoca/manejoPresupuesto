@@ -1,7 +1,7 @@
 USE [master]
 GO
 
-/****** Object:  Database [ManejoPresupuesto]    Script Date: 11/12/2023 13:19:44 ******/
+/****** Object:  Database [ManejoPresupuesto]    Script Date: 15/12/2023 10:50:04 ******/
 CREATE DATABASE [ManejoPresupuesto]
  CONTAINMENT = NONE
  ON  PRIMARY 
